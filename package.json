@@ -1,0 +1,25 @@
+{
+  "name": "projet-ssh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wsauvage/projet-ssh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wsauvage/projet-ssh/issues"
+  },
+  "homepage": "https://github.com/wsauvage/projet-ssh#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "twig": "^1.15.4"
+  }
+}
